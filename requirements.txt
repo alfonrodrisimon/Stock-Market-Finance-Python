@@ -33,6 +33,7 @@ nest-asyncio==1.5.8
 numpy==1.26.0
 packaging==23.2
 pandas==2.1.1
+pandas-datareader==0.10.0
 parso==0.8.3
 peewee==3.16.3
 pendulum==2.1.2
