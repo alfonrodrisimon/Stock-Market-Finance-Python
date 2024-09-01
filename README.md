@@ -17,6 +17,10 @@ Create a virtual environment and execute the following line of code:
 
 ```pip install -r requirements.txt```
 
+## Instructions
+
+Run all the notebooks and leave the Markets-notebook for last.
+
 ## Authors
 
 Alfonso Rodríguez Simón - [alfonrodrisimon](https://github.com/alfonrodrisimon)
