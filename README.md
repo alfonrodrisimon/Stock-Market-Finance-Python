@@ -1,17 +1,26 @@
 # Stock-Market-Finance-Python
 
+[![PyPI pyversions](https://img.shields.io/badge/python-3.10.12-blue.svg)](https://img.shields.io/badge/python-3.10.12-blue.svg)
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
+
+## Description
+
 Python code and Jupyter notebooks for comprehensive stock market and financial analysis.
 
-Prerequisites
+## Prerequisites
+
+We recommend the usage of Python version 3.10.12
+
+## Installation
 
 Create a virtual environment and execute the following line of code:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
-We recommend the usage of Python version
-Authors
+## Authors
 
-    Alfonso Rodríguez Simón - alfonrodrisimon
+Alfonso Rodríguez Simón - [alfonrodrisimon](https://github.com/alfonrodrisimon)
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details
+## License
+
+This project is licensed under the [MIT License](LICENSE).
